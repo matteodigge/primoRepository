@@ -2,7 +2,7 @@ package it.solving.primo;
 
 public class Welcome {
 	public static void main(String[] args) {
-		System.out.println("Ciao");
+		System.out.println("bella");
 	}
 
 }
